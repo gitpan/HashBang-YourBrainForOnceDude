@@ -1,0 +1,7 @@
+HashBang-YourBrainForOnceDude will install a binary executable called
+yourbrainforoncedude on your system. This allows you to start your
+program with:
+
+    #!/usr/bin/yourbrainforoncedude
+
+YourBrainForOnceDude? Just use it.

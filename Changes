@@ -1,0 +1,9 @@
+# Revision history for Perl extension HashBang-YourBrainForOnceDude.
+
+---
+version: 0.10
+date:    Thu Jul 25 14:50:07 EDT 2002
+changes: >
+  original version; 
+  created by h2xs 1.1.1.4 with options -PAXn
+  HashBang-YourBrainForOnceDude
